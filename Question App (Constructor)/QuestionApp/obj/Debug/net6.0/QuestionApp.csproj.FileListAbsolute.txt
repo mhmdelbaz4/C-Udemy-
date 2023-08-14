@@ -1,0 +1,15 @@
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.csproj.AssemblyReference.cache
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.AssemblyInfoInputs.cache
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.AssemblyInfo.cs
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.csproj.CoreCompileInputs.cache
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/bin/Debug/net6.0/QuestionApp
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/bin/Debug/net6.0/QuestionApp.deps.json
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/bin/Debug/net6.0/QuestionApp.runtimeconfig.json
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/bin/Debug/net6.0/QuestionApp.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/bin/Debug/net6.0/ref/QuestionApp.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/bin/Debug/net6.0/QuestionApp.pdb
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/ref/QuestionApp.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.pdb
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/Question App (Constructor)/QuestionApp/obj/Debug/net6.0/QuestionApp.genruntimeconfig.cache
