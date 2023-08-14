@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/ATM PIN Validation.csproj": {}
+  },
+  "projects": {
+    "/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/ATM PIN Validation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/ATM PIN Validation.csproj",
+        "projectName": "ATM PIN Validation",
+        "projectPath": "/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/ATM PIN Validation.csproj",
+        "packagesPath": "/home/elbaz/.nuget/packages/",
+        "outputPath": "/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/elbaz/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/6.0.121/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

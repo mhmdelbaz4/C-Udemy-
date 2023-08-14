@@ -1,0 +1,15 @@
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/bin/Debug/net6.0/ATM PIN Validation
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/bin/Debug/net6.0/ATM PIN Validation.deps.json
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/bin/Debug/net6.0/ATM PIN Validation.runtimeconfig.json
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/bin/Debug/net6.0/ATM PIN Validation.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/bin/Debug/net6.0/ref/ATM PIN Validation.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/bin/Debug/net6.0/ATM PIN Validation.pdb
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.csproj.AssemblyReference.cache
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.GeneratedMSBuildEditorConfig.editorconfig
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.AssemblyInfoInputs.cache
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.AssemblyInfo.cs
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.csproj.CoreCompileInputs.cache
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ref/ATM PIN Validation.dll
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.pdb
+/home/elbaz/Projects/gitHub/CSharp-Harsha-Udemy/ATM PIN Validation (Properties & Indexers)/ATM PIN Validation/obj/Debug/net6.0/ATM PIN Validation.genruntimeconfig.cache
