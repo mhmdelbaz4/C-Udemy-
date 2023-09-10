@@ -1,0 +1,15 @@
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/bin/Debug/net6.0/Game Character System
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/bin/Debug/net6.0/Game Character System.deps.json
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/bin/Debug/net6.0/Game Character System.runtimeconfig.json
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/bin/Debug/net6.0/Game Character System.dll
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/bin/Debug/net6.0/ref/Game Character System.dll
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/bin/Debug/net6.0/Game Character System.pdb
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.csproj.AssemblyReference.cache
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.GeneratedMSBuildEditorConfig.editorconfig
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.AssemblyInfoInputs.cache
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.AssemblyInfo.cs
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.csproj.CoreCompileInputs.cache
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.dll
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/ref/Game Character System.dll
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.pdb
+/home/elbaz/Projects/GitHub/CSharp-Harsha-Udemy/Game Character System (Inheritance)/Game_Character_System/obj/Debug/net6.0/Game Character System.genruntimeconfig.cache
